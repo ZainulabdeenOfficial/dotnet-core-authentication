@@ -1,5 +1,21 @@
 [
   {
+    "ContainingType": "dotnet_core_authentication.Controllers.UserAuthController",
+    "Method": "Register",
+    "RelativePath": "api/UserAuth/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "registerModel",
+        "Type": "dotnet_core_authentication.Models.RegisterModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "dotnet_core_authentication.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",

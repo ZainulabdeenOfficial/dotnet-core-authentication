@@ -159,3 +159,7 @@ D:\.net fullstack course\dotnet-core-authentication\dotnet core authentication\d
 D:\.net fullstack course\dotnet-core-authentication\dotnet core authentication\dotnet core authentication\obj\Debug\net10.0\dotnet core authentication.pdb
 D:\.net fullstack course\dotnet-core-authentication\dotnet core authentication\dotnet core authentication\obj\Debug\net10.0\dotnet core authentication.genruntimeconfig.cache
 D:\.net fullstack course\dotnet-core-authentication\dotnet core authentication\dotnet core authentication\obj\Debug\net10.0\ref\dotnet core authentication.dll
+D:\.net fullstack course\dotnet-core-authentication\dotnet core authentication\dotnet core authentication\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\.net fullstack course\dotnet-core-authentication\dotnet core authentication\dotnet core authentication\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\.net fullstack course\dotnet-core-authentication\dotnet core authentication\dotnet core authentication\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\.net fullstack course\dotnet-core-authentication\dotnet core authentication\dotnet core authentication\bin\Debug\net10.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
