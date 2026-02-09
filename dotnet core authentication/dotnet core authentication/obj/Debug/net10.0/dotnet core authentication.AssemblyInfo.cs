@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dotnet core authentication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c3e474368ecf9627d6a8e6ee63971a7f9cbfd3c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03ed858ce7b2e7b8ff72b34743f3845ca278a5a3")]
 [assembly: System.Reflection.AssemblyProductAttribute("dotnet core authentication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dotnet core authentication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

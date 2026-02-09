@@ -1,6 +1,22 @@
 [
   {
     "ContainingType": "dotnet_core_authentication.Controllers.UserAuthController",
+    "Method": "Login",
+    "RelativePath": "api/UserAuth/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginModel",
+        "Type": "dotnet_core_authentication.Models.LoginModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "dotnet_core_authentication.Controllers.UserAuthController",
     "Method": "Register",
     "RelativePath": "api/UserAuth/Register",
     "HttpMethod": "POST",
